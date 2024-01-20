@@ -11,3 +11,7 @@ Recreates the same dashboard found on Vapi's website to demonstrate Web SDK.
 - [ ] Create assistants
 - [ ] Edit assistants
 - [ ] Update readme with simple how-to instructions
+- [ ] Extra
+  - [ ] Match branding of Vapi
+  - [ ] Create and view phone numbers
+  - [ ] View call logs
